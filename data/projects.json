@@ -1,0 +1,191 @@
+[
+  {
+    "id": "seed-project-1",
+    "slug": "personal-portfolio-website",
+    "title": "Personal Portfolio Website",
+    "category": "WordPress",
+    "description": "A dark, editorial portfolio site built to showcase WordPress and design work.",
+    "details": "",
+    "image": "/images/websites/website-waleed-portfolio.jpg",
+    "tags": [
+      "WordPress",
+      "Elementor",
+      "Responsive"
+    ],
+    "liveUrl": "",
+    "client": "Waleed Ahmad",
+    "year": "2026",
+    "featured": true,
+    "published": true,
+    "createdAt": "2026-08-01T10:00:00Z",
+    "updatedAt": "2026-08-01T10:00:00Z"
+  },
+  {
+    "id": "seed-project-2",
+    "slug": "digifly-digital-agency-website",
+    "title": "Digifly \u2014 Digital Agency Website",
+    "category": "Agency",
+    "description": "A modern agency homepage built around services, pricing, and results.",
+    "details": "",
+    "image": "/images/websites/website-digifly-agency.jpg",
+    "tags": [
+      "Agency",
+      "Responsive",
+      "Dark UI"
+    ],
+    "liveUrl": "",
+    "client": "Digifly",
+    "year": "2026",
+    "featured": true,
+    "published": true,
+    "createdAt": "2026-08-01T09:59:00Z",
+    "updatedAt": "2026-08-01T09:59:00Z"
+  },
+  {
+    "id": "seed-project-3",
+    "slug": "saffron-table-restaurant-website",
+    "title": "Saffron Table \u2014 Restaurant Website",
+    "category": "Restaurant",
+    "description": "A warm, appetite-led homepage for a fine-dining restaurant brand.",
+    "details": "",
+    "image": "/images/websites/website-saffrontable-restaurant.jpg",
+    "tags": [
+      "Restaurant",
+      "Responsive",
+      "Booking-ready"
+    ],
+    "liveUrl": "",
+    "client": "Saffron Table",
+    "year": "2026",
+    "featured": true,
+    "published": true,
+    "createdAt": "2026-08-01T09:58:00Z",
+    "updatedAt": "2026-08-01T09:58:00Z"
+  },
+  {
+    "id": "seed-project-4",
+    "slug": "havenhome-property-rental-website",
+    "title": "HavenHome \u2014 Property Rental Website",
+    "category": "Real Estate",
+    "description": "A property-listing homepage built to make browsing homes effortless.",
+    "details": "",
+    "image": "/images/websites/website-havenhome-rental.jpg",
+    "tags": [
+      "Real Estate",
+      "Listings",
+      "Responsive"
+    ],
+    "liveUrl": "",
+    "client": "HavenHome",
+    "year": "2026",
+    "featured": false,
+    "published": true,
+    "createdAt": "2026-08-01T09:57:00Z",
+    "updatedAt": "2026-08-01T09:57:00Z"
+  },
+  {
+    "id": "seed-project-5",
+    "slug": "artesia-real-estate-website",
+    "title": "Artesia \u2014 Real Estate Website",
+    "category": "Real Estate",
+    "description": "A premium real estate homepage showcasing exceptional properties.",
+    "details": "",
+    "image": "/images/websites/website-artesia-realestate.jpg",
+    "tags": [
+      "Real Estate",
+      "Elementor",
+      "Responsive"
+    ],
+    "liveUrl": "",
+    "client": "Artesia",
+    "year": "2026",
+    "featured": false,
+    "published": true,
+    "createdAt": "2026-08-01T09:56:00Z",
+    "updatedAt": "2026-08-01T09:56:00Z"
+  },
+  {
+    "id": "seed-project-6",
+    "slug": "healthcare-website",
+    "title": "Healthcare Website",
+    "category": "Healthcare",
+    "description": "A patient-focused homepage built around trust, care, and easy booking.",
+    "details": "",
+    "image": "/images/websites/website-healthcare.jpg",
+    "tags": [
+      "Healthcare",
+      "Responsive",
+      "Booking-ready"
+    ],
+    "liveUrl": "",
+    "client": "Healthcare Client",
+    "year": "2026",
+    "featured": false,
+    "published": true,
+    "createdAt": "2026-08-01T09:55:00Z",
+    "updatedAt": "2026-08-01T09:55:00Z"
+  },
+  {
+    "id": "seed-project-7",
+    "slug": "brightpath-nonprofit-website",
+    "title": "BrightPath \u2014 Nonprofit Website",
+    "category": "Nonprofit",
+    "description": "A donor-focused homepage built to communicate impact clearly.",
+    "details": "",
+    "image": "/images/websites/website-brightpath-nonprofit.jpg",
+    "tags": [
+      "Nonprofit",
+      "Responsive",
+      "Donation-ready"
+    ],
+    "liveUrl": "",
+    "client": "BrightPath",
+    "year": "2026",
+    "featured": false,
+    "published": true,
+    "createdAt": "2026-08-01T09:54:00Z",
+    "updatedAt": "2026-08-01T09:54:00Z"
+  },
+  {
+    "id": "seed-project-8",
+    "slug": "edusphere-e-learning-dashboard",
+    "title": "EduSphere \u2014 E-Learning Dashboard",
+    "category": "Web App",
+    "description": "A clean student dashboard for tracking courses and progress.",
+    "details": "",
+    "image": "/images/websites/website-edusphere-elearning.jpg",
+    "tags": [
+      "E-Learning",
+      "Dashboard",
+      "Web App"
+    ],
+    "liveUrl": "",
+    "client": "EduSphere",
+    "year": "2026",
+    "featured": false,
+    "published": true,
+    "createdAt": "2026-08-01T09:53:00Z",
+    "updatedAt": "2026-08-01T09:53:00Z"
+  },
+  {
+    "id": "seed-project-9",
+    "slug": "digify-luxury-apparel-ecommerce",
+    "title": "Digify \u2014 Luxury Apparel eCommerce",
+    "category": "eCommerce",
+    "description": "A boutique ecommerce homepage built for a curated luxury catalog.",
+    "details": "",
+    "image": "/images/websites/website-digify-luxury-ecommerce.jpg",
+    "tags": [
+      "eCommerce",
+      "WooCommerce",
+      "Responsive"
+    ],
+    "liveUrl": "",
+    "client": "Digify",
+    "year": "2026",
+    "featured": false,
+    "published": true,
+    "createdAt": "2026-08-01T09:52:00Z",
+    "updatedAt": "2026-08-01T09:52:00Z"
+  }
+]

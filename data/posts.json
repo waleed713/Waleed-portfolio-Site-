@@ -1,0 +1,32 @@
+[
+  {
+    "id": "seed-post-1",
+    "slug": "why-your-wordpress-site-feels-slow",
+    "title": "Why Your WordPress Site Feels Slow (and How to Fix It)",
+    "excerpt": "Most slow WordPress sites share the same five problems. Here is how to find and fix them before they cost you customers.",
+    "content": "Speed is the first thing a visitor feels and the last thing most owners check. After building sites for different industries, the same causes keep showing up.\n\n## 1. Oversized images\nA 4 MB hero image is the most common culprit. Export at the size it is displayed, use WebP, and lazy-load everything below the fold.\n\n## 2. Too many plugins\nEvery plugin adds requests and code. Audit yearly, delete what you do not use, and replace heavy plugins with lighter alternatives.\n\n## 3. Cheap hosting\nA good design cannot hide a slow server. Look for hosting with server-level caching and PHP 8+.\n\n## 4. No caching layer\nPage caching alone can cut load time in half. Pair it with a CDN for global visitors.\n\n## 5. Heavy page builders used carelessly\nElementor is fine when sections are built with restraint. Avoid deep nesting and unnecessary animations.\n\n**Quick win:** run your homepage through PageSpeed Insights, fix the top three opportunities, and re-test.\n",
+    "cover": "/images/blog/why-wordpress-site-feels-slow.jpg",
+    "tags": [
+      "WordPress",
+      "Performance"
+    ],
+    "published": true,
+    "createdAt": "2026-08-10T09:00:00Z",
+    "updatedAt": "2026-08-10T09:00:00Z"
+  },
+  {
+    "id": "seed-post-2",
+    "slug": "what-makes-a-website-convert",
+    "title": "What Makes a Website Convert: 5 Design Rules I Follow",
+    "excerpt": "A beautiful site that does not bring enquiries is just an expensive brochure. These are the rules I design around.",
+    "content": "A website should do more than look good. It should guide the visitor toward one clear action.\n\n## One goal per page\nEvery page needs a single primary action: call, book, buy or message. Everything else supports it.\n\n## Show proof early\nLogos, results and real project screenshots build trust faster than paragraphs of claims.\n\n## Make the next step obvious\nA visible button above the fold and again at the end of the page removes guesswork.\n\n## Design for mobile first\nMost visitors arrive on a phone. If the layout works there, desktop is the easy part.\n\n## Keep it fast\nEvery extra second of load time loses visitors. Performance is part of design.\n",
+    "cover": "/images/blog/what-makes-a-website-convert.jpg",
+    "tags": [
+      "UI/UX",
+      "Conversion"
+    ],
+    "published": true,
+    "createdAt": "2026-08-18T09:00:00Z",
+    "updatedAt": "2026-08-18T09:00:00Z"
+  }
+]
